@@ -1,0 +1,12 @@
+{
+  "name": "DAPIN by Wengs",
+  "short_name": "DAPIN",
+  "description": "Prototipe simulasi keuangan dan cicilan",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#0b0b0d",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
